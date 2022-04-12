@@ -1,0 +1,67 @@
+.head {
+    resize: horizontal;
+    overflow: auto;
+}
+
+.body {
+    resize: both;
+    overflow: auto;
+}
+
+.footer {
+    resize: horizontal;
+}
+
+.copyright {
+    font-family: Lora;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(73, 64, 43);
+}
+
+.header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color:rgb(255, 255, 255);
+}
+
+.caption {
+    font-family:sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:rgb(75, 58, 43);
+}
+
+.table {
+    height: 281px;
+    width:50%;
+}
+
+.links {
+    font-family: Lora;
+    text-align: left;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 35px;
+    color:rgb(75, 58, 43);
+}
+
+.anchor {
+    color: rgb(71, 50, 30);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+.homebg {
+    background-image: url('../images/lightwood.jpeg');
+    background-position: top center;
+}
+
+.tableauPlaceholder {
+    resize: both;
+    overflow: auto;
+}
